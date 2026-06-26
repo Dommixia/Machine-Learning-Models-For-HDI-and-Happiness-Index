@@ -60,7 +60,7 @@ Happy
 
 Very Happy
 
-Unhappy (if present in dataset)
+Unhappy
 
 🧠 Models Used
 
@@ -151,7 +151,7 @@ Interactive dashboards (Streamlit)
 
 👤 Author
 
-Developed as a learning & analysis project combining:
+Developed for a hackathon from SOIL institute of India
 
 Machine Learning
 
